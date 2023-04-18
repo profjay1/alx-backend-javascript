@@ -492,4 +492,4 @@ bob@dylan:~$
 ````
 ### Authors &copy;
 
-- Dr Marcus Imagwe
+- Saheed Omotola
